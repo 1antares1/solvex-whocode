@@ -1,2 +1,2 @@
-# dominicans-whocodeatsolvex-api
-Open source project (API) inspired in IndiansWhoDesign, made to expose all the developers at SOLVEX from Dominican Republic From the Dominican Republic and the rest of the world with their skills and references. ;) The idea is to have this space where you could find the Dominican and foreign devs info. This project is basically everybody who want to collaborate to learn/use some of the main backend platforms (.NET Core), play with some WebAssembly technologies like Blazor and also implement a Microservices Architecture.
+# SOLVEX-whocode-API
+The idea is to have this space where you could find the Dominican and foreign devs info. This project is basically everybody who want to collaborate to learn/use some of the main backend platforms (.NET Core), play with some WebAssembly technologies like Blazor and also implement a Microservices Architecture.
